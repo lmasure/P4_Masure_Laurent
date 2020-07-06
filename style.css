@@ -214,7 +214,16 @@ a{font-family:"helvetica";font-weight:400;color:#575757!important;}
 p{font-size:1.2em;}
 .tight-width-whitespace{max-width:600px;margin:auto auto auto auto;}
 .h1{font-size:20px;font-family:"Open Sans";}
-.cta-hero{margin-top:22px;color:#FFFFFF!important;text-transform:uppercase;padding:12px 28px 12px 28px;font-size:16px;font-weight:700;}
+
+/*changement de couleur pour le text des boutons*/
+.cta-hero{margin-top:22px;text-transform:uppercase;padding:12px 28px 12px 28px;font-size:16px;font-weight:700;color: black!important;}
+/*regles pour la balise quote*/
+blockquote footer{
+  color: black;
+}
+
+
+
 .social{max-width:400px;margin:auto auto auto auto;}
 h2{font-size:22px;line-height:1.4em;}
 h3{font-size:15px;text-transform:uppercase;font-weight:700;color:#333333!important;}
@@ -232,7 +241,7 @@ h4{color:#333333!important;}
 .bgc-dark-slate-blue{background-color:#364577;}
 .bgc-atomic-tangerine{background-color:#F3976C;}
 .tc-white{color:white!important;}
-.btn-atomic-tangerine{background:#F3976C;color:#FFFFFF!important;}
+.btn-atomic-tangerine{background:#F3976C;}
 .btn-atomic-tangerine:hover{background:#c27956!important;color:#FFFFFF!important;}
 .ltc-white{color:#FFFFFF!important;}
 .ltc-white:hover{color:#cccccc!important;}
