@@ -325,7 +325,7 @@ blockquote footer{
 /*constraste du texte footer*/
 .text-footer{
   text-align: center;
-  color: white!important;
+  color: rgb(10, 10, 10)!important;
   font-size: 1.2em;
   font-weight: bold;
 }
