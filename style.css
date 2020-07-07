@@ -341,3 +341,10 @@ blockquote footer{
   display: inline-block;
   }
 }
+
+/*fait apparaitre le menu en responsive*/
+@media (max-width: 767px){
+.navbar-collapse {
+  display: block;
+}
+}
