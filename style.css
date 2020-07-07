@@ -322,9 +322,22 @@ form{padding:5px;}
 blockquote footer{
   color: black;
 }
+/*constraste du texte footer*/
 .text-footer{
   text-align: center;
   color: white!important;
   font-size: 1.2em;
   font-weight: bold;
+}
+/*mise en page rubrique contact*/
+.contact-container{
+  width: 100%;
+}
+
+/*alignement des blocs portfolio en responsive*/
+
+@media (max-width:767px){
+  .portfolio-thumb{
+  display: inline-block;
+  }
 }
