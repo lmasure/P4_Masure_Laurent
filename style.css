@@ -309,8 +309,9 @@ form{padding:5px;}
 .blocsapp-device-iphone5 img{width:180px;height:320px;}
 }
 
-@media (max-width:767px){.bloc-mob-center-text{text-align:center;}
-}
+@media (max-width:767px){.bloc-mob-center-text{text-align:center;}}
+
+
 
 /* modifications */
 /*changement de couleur pour le text des boutons*/
