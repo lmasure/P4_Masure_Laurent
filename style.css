@@ -347,7 +347,11 @@ blockquote footer{
   display: block;
 }
 }
-/*focus sur les éléments du formulaire*/
+/*focus sur les éléments du formulaire et les liens*/
+a:focus{
+background: #f3966b;
+color: red!important;
+}
 input:focus{
 background: #f3966b!important;
 color: red!important;
