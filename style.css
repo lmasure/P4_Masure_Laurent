@@ -360,3 +360,9 @@ textarea:focus{
 background: #f3966b!important;
 color: red!important;
 }
+.social:focus{
+background:black!important;
+}
+img:focus{
+background: #f3966b;
+}
